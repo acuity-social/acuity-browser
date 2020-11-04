@@ -22,7 +22,7 @@
             <div class="body-2 mb-4">It is now possible to trade ACU against ETH on <a target="_blank" href="https://app.stex.com/en/trade/pair/ETH/ACU">STEX</a>.</div>
             <div class="text-h6 mb-1">ACU / ETH Atomic Swap Exchange</div>
             <div class="body-2 mb-4">I am developing an Atomic Swap exchange that will be available this website. Substrate already has an Atomic Swap pallet available. This will enable fully permissionless trading of ACU enabling its free market value to be determined. It will function through simultaneous use of both the Polkadot and Metamask browser plugins. This exchange will be fully open source and available for other Polkadot chains to utilize.</div>
-            <div class="body-2 mb-4">This is a much better approach to connecting Acuity to the Ethereum ecosystem than developing a "Wrapped ACU". Uniswap-style trading will be available via Polkaswap. Because Polkaswap is built on Polkadot the transaction gees will be significantly lower than Uniswap.</div>
+            <div class="body-2 mb-4">This is a much better approach to connecting Acuity to the Ethereum ecosystem than developing a "Wrapped ACU". Uniswap-style trading will be available via Polkaswap. Because Polkaswap is built on Polkadot the transaction fees will be significantly lower than Uniswap.</div>
           </v-card-text>
         </v-card>
       </v-col>
